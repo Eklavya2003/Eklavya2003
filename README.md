@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on**: [**File-Share**](https://github.com/Eklavya2003/File-Share)
+- 🔭 **Currently working on**: [**File-Share**](https://github.com/Eklavya2003)
 - 🌱 **Learning**: Node.js, Express.js, EJS, React.js, Next.js
 - 💬 **Ask me about**: C/C++, Java, HTML/CSS, Shell Scripting, JavaScript, Node.js, Express.js, EJS, React.js, Next.js
-- 📫 **Reach me at**: 9895145@gmail.com
-- 📄 **Check out my resume**: [Resume Link](https://drive.google.com/file/d/1yypId7cf346kcccWx7LgZVtlWFmgv0BG/view?usp=sharing)
+- 📫 **Reach me at**: eklavyagupta2003@gmail.com
+- 📄 **Check out my resume**: [Resume Link](https://drive.google.com/file/d/1iCv-SU-DfPLgIbSOKNzwKvaz-ECdDE93/view?usp=sharing)
 - ⚡ **Fun fact**: Coders are always figuring things out!
 
 ---
