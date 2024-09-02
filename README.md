@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#6a1b9a;">Ashutosh Kumar Tiwari</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#6a1b9a;">Eklavya Gupta</span></h1>
 <h3 align="center" style="color:#3949ab;">Software Developer | DSA Enthusiast | Aspiring Full-Stack MERN Developer</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 📞 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-kumar-tiwari-36a24b2a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/eklavya-gupta-05994829b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Ashutiwari56/" target="_blank">
