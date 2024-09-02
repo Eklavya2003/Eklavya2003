@@ -8,7 +8,6 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on**: [**File-Share**](https://github.com/Eklavya2003)
 - 🌱 **Learning**: Node.js, Express.js, EJS, React.js, Next.js
 - 💬 **Ask me about**: C/C++, Java, HTML/CSS, Shell Scripting, JavaScript, Node.js, Express.js, EJS, React.js, Next.js
 - 📫 **Reach me at**: eklavyagupta2003@gmail.com
