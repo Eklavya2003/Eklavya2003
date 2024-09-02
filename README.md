@@ -2,13 +2,13 @@
 <h3 align="center" style="color:#3949ab;">Software Developer | DSA Enthusiast | Aspiring Full-Stack MERN Developer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutoshtiwari898&theme=dracula&no-frame=true&column=7" alt="github-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eklavya2003&theme=dracula&no-frame=true&column=7" alt="github-trophy" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on**: [**File-Share**](https://github.com/Ashutoshtiwari898/File-Share)
+- 🔭 **Currently working on**: [**File-Share**](https://github.com/Eklavya2003/File-Share)
 - 🌱 **Learning**: Node.js, Express.js, EJS, React.js, Next.js
 - 💬 **Ask me about**: C/C++, Java, HTML/CSS, Shell Scripting, JavaScript, Node.js, Express.js, EJS, React.js, Next.js
 - 📫 **Reach me at**: 9895145@gmail.com
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/eklavya-gupta-05994829b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Ashutiwari56/" target="_blank">
+  <a href="https://leetcode.com/u/22052381/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
@@ -94,11 +94,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshtiwari898&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eklavya2003&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshtiwari898&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eklavya2003&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshtiwari898&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eklavya2003&theme=dracula" alt="GitHub Streak" />
 </p>
